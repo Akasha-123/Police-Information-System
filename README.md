@@ -20,3 +20,6 @@ How to Run:
 Open project in Visual Studio / VS Code
 Add all .cpp and .h files
 Build and run the project
+
+Author:
+Syeda Akasha Naveed
