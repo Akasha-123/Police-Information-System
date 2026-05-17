@@ -2,6 +2,7 @@ Police Information System (C++)
 
 This project is a simple console application built in C++ for managing criminal records using OOP concepts.
 
+
 Features:
 Add criminal records
 Search records by name
@@ -10,6 +11,8 @@ Update existing records
 Delete records
 Display murderers list
 Display thieves list
+
+
 Technologies:
 C++
 Object-Oriented Programming
